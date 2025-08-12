@@ -1,0 +1,11 @@
+# Owner for all files
+*                @durgaprasadpj
+
+# Owner for everything in src/
+/src/            @Accorian/frontend-team
+
+# Owner for README in docs
+/docs/README.md  @durgaprasadpj
+
+# Owner for JavaScript files
+*.js             @js-specialist
