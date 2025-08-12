@@ -5,10 +5,10 @@
 /docs/           @docs-team
 
 # Assign the frontend team to all JS files
-*.js             @accorian/frontend-team
+*.js             @durgaprasadpjfrontend-team
 
 # Assign the backend team to everything in backend/
-backend/*        @accorian/backend-team
+backend/*        @durgaprasadpj/backend-team
 
 # Assign a specific user to a config file
 /config/settings.yml  @config-expert
