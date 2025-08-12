@@ -1,0 +1,17 @@
+# The default owner for all files in the repo
+*                @durgaprasadpj
+
+# Assign the docs team to the documentation folder
+/docs/           @docs-team
+
+# Assign the frontend team to all JS files
+*.js             @accorian/frontend-team
+
+# Assign the backend team to everything in backend/
+backend/*        @accorian/backend-team
+
+# Assign a specific user to a config file
+/config/settings.yml  @config-expert
+
+# Multiple owners for a critical script
+/scripts/deploy.sh   @devops-lead @security-head
